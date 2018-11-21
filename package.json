@@ -1,0 +1,27 @@
+{
+  "name": "stylelint-config-scalefast",
+  "version": "1.0.0",
+  "description": "Configuration stylelint for Scalefast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scalefast/stylelint-config-scalefast.git"
+  },
+  "keywords": [
+    "stylelint",
+    "linter"
+  ],
+  "author": "front team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scalefast/stylelint-config-scalefast/issues"
+  },
+  "homepage": "https://github.com/scalefast/stylelint-config-scalefast#readme",
+  "dependencies": {
+    "stylelint": "^9.8.0",
+    "stylelint-config-standard": "^18.2.0"
+  }
+}
