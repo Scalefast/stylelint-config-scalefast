@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-scalefast",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Configuration stylelint for Scalefast",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/scalefast/stylelint-config-scalefast#readme",
   "dependencies": {
-    "stylelint": "^9.8.0",
-    "stylelint-config-standard": "^18.2.0"
+    "stylelint": "^9.10.1",
+    "stylelint-config-standard": "^18.3.0"
   }
 }
